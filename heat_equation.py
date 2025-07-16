@@ -1,5 +1,4 @@
-# I wrote this sometime in 2007 or 2008 so please be forgiving
-# of younger me and his terrible code
+# Code written in 2007. Unchanged since then, with the exception of migration to Python 3 syntax.
 
 from vpython import *
 from time import sleep
